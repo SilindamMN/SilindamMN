@@ -15,6 +15,25 @@ I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core
 
 ---
 
+### 🎓 Education & Certifications
+
+```mermaid
+---
+config:
+  theme: 'base'
+---
+timeline
+    title Education & Certifications
+    section Education
+        2017 - 2019 : Diploma in ICT (Application Development) - NQF 6
+        Feb 2020 - Dec 2020 : Advanced Diploma in ICT (Application Development) - NQF 7
+
+    section Certifications
+        Apr 2026 : Microsoft Certified - Azure Fundamentals (AZ-900)
+```
+
+---
+
 ### 🧭 Career Timeline
 
 ```mermaid
