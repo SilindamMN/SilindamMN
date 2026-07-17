@@ -1,21 +1,31 @@
 ### 👋 Hello!
+
 I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Africa, with hands-on experience building enterprise and CRM applications using **.NET (ASP.NET Core, Entity Framework Core)**, **Angular**, and **React**. I enjoy solving real business problems end-to-end — from API design and database work through to polished, user-friendly frontends. Outside of work, I'm building **WorkForceNavigator**, a personal HR management system project covering user management, teams, departments, and RBAC, as a space to keep sharpening my craft.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SilindamMN&color=512BD4&style=flat)
+
 [![Phone](https://img.shields.io/badge/-081%20819%201893-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+27818191893)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27818191893)
 [![Gmail](https://img.shields.io/badge/-silindanemdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silindanemdu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Mdu%20Silinda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silindam/)
+
 ---
+
 ### 💼 Experience
+
 <details>
 <summary><b>Personal Project — June 2026 – Present</b></summary>
 <br>
+
 - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
 - Applying and deepening skills in clean architecture, reusable UI components, and API design outside of a work environment.
+
 </details>
+
 <details>
 <summary><b>Junior Software Developer — Automation Exchange, Johannesburg (May 2025 – June 2026)</b></summary>
 <br>
+
 - Collaborated with CPOs, Product Owners, developers, testers, training specialists, document specialists, and stakeholders to deliver software solutions.
 - Developed and maintained CRM, network management, and enterprise applications using .NET Framework, .NET Core, Angular, SQL Server, and Retool.
 - Built and integrated RESTful APIs with internal and external systems.
@@ -24,6 +34,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 - Performed code reviews, testing, debugging, and troubleshooting.
 - Managed CI/CD deployments across development, staging, and pre-production environments.
 - Participated in Agile ceremonies including sprint planning, stand-ups, backlog refinement, and retrospectives.
+
 **Breakdown:**
 ```mermaid
 ---
@@ -37,16 +48,20 @@ timeline
              : Remodernizing frontend of existing projects
              : Heavy stakeholder engagement - requirements & solutions
 ```
+
 </details>
+
 <details>
 <summary><b>Junior Software Developer — Singular Systems, Johannesburg (February 2023 – April 2025)</b></summary>
 <br>
+
 - Developed and maintained web applications using ASP.NET Core, C#, React TypeScript, and SQL Server.
 - Built and maintained RESTful APIs and integrated them with frontend applications.
 - Implemented new features, resolved bugs, and enhanced existing systems based on business requirements.
 - Wrote LINQ queries and used Entity Framework Core for data access and database operations.
 - Performed debugging, testing, code reviews, and troubleshooting to ensure software quality.
 - Used Git for version control and collaborated with the development team in an agile environment.
+
 **Breakdown:**
 ```mermaid
 ---
@@ -62,9 +77,13 @@ timeline
     Feb 2025 : Remodernization of shareholders management system
     Apr 2025 : Left Singular Systems
 ```
+
 </details>
+
 ---
+
 ### ⚡ Technologies
+
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -81,12 +100,24 @@ timeline
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
---
+
+---
+
 ### 🧠 Soft Skills
 
 `Problem Solving` `Communication` `Stakeholder Engagement` `Requirements Gathering` `Agile Collaboration` `Time Management` `Adaptability` `Mentoring & Knowledge Sharing` `Attention to Detail` `Ownership`
+
 ---
+
 ### 🎓 Education & Certifications
+
 - **Advanced Diploma in ICT** (Application Development), NQF 7 — Feb 2020 – Dec 2020
 - **Diploma in ICT** (Application Development), NQF 6 — 2017 – 2019
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SilindamMN&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilindamMN&layout=compact&theme=radical&hide_border=true)
