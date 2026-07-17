@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core, Entity Framework Core)** and **Angular/React**. Currently building **WorkForceNavigator**, a personal HR management system project with user management, teams, departments, and RBAC.
+I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Africa, with hands-on experience building enterprise and CRM applications using **.NET (ASP.NET Core, Entity Framework Core)**, **Angular**, and **React**. I enjoy solving real business problems end-to-end — from API design and database work through to polished, user-friendly frontends. Outside of work, I'm building **WorkForceNavigator**, a personal HR management system project covering user management, teams, departments, and RBAC, as a space to keep sharpening my craft.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilindamMN&color=512BD4&style=flat)
 
@@ -49,6 +49,25 @@ I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core
 - Used Git for version control and collaborated with the development team in an agile environment.
 
 </details>
+
+**Timeline at a glance**
+
+```mermaid
+---
+config:
+  theme: 'base'
+---
+timeline
+    title Career Journey
+    2017 - 2019 : Diploma in ICT (Application Development) - NQF 6
+    2020 : Advanced Diploma in ICT (Application Development) - NQF 7
+    2023 : Joined Singular Systems
+         : ASP.NET Core, React TypeScript, SQL Server
+    2025 : Joined Automation Exchange
+         : .NET, Angular, Retool, AI agents & automation
+    2026 : Azure Fundamentals (AZ-900) certified
+         : Started personal project - WorkForceNavigator
+```
 
 ---
 
