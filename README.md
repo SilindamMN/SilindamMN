@@ -29,9 +29,9 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 <br>
 
 - Collaborated with CPOs, Product Owners, developers, testers, training specialists, document specialists, and stakeholders to deliver software solutions.
-- Developed and maintained CRM, network management, and enterprise applications using .NET Framework, .NET Core, Angular, SQL Server, and Retool.
+- Developed and maintained CRM, network management, and enterprise applications using **Angular**, **.NET Core APIs**, **.NET MVC**, and a **microservices architecture**.
 - Built and integrated RESTful APIs with internal and external systems.
-- Developed Retool applications, AI agents, and automated workflows that reduced new client onboarding time, streamlined troubleshooting, resolved recurring issues, and saved time for technicians and field service agents.
+- Transitioned to **Retool** low-code development — modernizing legacy frontends, building automated workflows, and developing AI agents on the platform that reduced new client onboarding time, streamlined troubleshooting, and saved time for technicians and field service agents.
 - Implemented new features, resolved bugs, and enhanced existing applications.
 - Performed code reviews, testing, debugging, and troubleshooting.
 - Managed CI/CD deployments across development, staging, and pre-production environments.
@@ -41,8 +41,8 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 ```mermaid
 timeline
     title Automation Exchange
-    May 2025 : Maintained internal apps (5 months)
-    Oct 2025 : Low-code platform, frontend remodernization & stakeholder engagement
+    May 2025 : Angular, .NET Core APIs, .NET MVC, microservices (5 months)
+    Oct 2025 : Retool low-code - legacy frontend modernization, workflows & AI agents
 ```
 
 </details>
@@ -121,8 +121,3 @@ timeline
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
 
 ---
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SilindamMN&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilindamMN&layout=compact&theme=radical&hide_border=true)
