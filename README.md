@@ -1,12 +1,8 @@
 ### 👋 Hello!
 
-I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core, Entity Framework Core)** and **Angular**. Currently building **WorkForceNavigator**, an HR management system with user management, teams, departments, and RBAC. I hold a Diploma & Advanced Diploma in ICT (Application Development).
+I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core, Entity Framework Core)** and **Angular/React**. Currently building **WorkForceNavigator**, a personal HR management system project with user management, teams, departments, and RBAC.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilindamMN&color=512BD4&style=flat)
-
----
-
-### 📞 Contact Me
 
 [![Phone](https://img.shields.io/badge/-081%20819%201893-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+27818191893)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27818191893)
@@ -15,51 +11,44 @@ I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core
 
 ---
 
-### 🎓 Education & Certifications
+### 💼 Experience
 
-```mermaid
----
-config:
-  theme: 'base'
----
-timeline
-    title Education & Certifications
-    section Education
-        2017 - 2019 : Diploma in ICT (Application Development) - NQF 6
-        Feb 2020 - Dec 2020 : Advanced Diploma in ICT (Application Development) - NQF 7
+<details>
+<summary><b>Personal Project — June 2026 – Present</b></summary>
+<br>
 
-    section Certifications
-        Apr 2026 : Microsoft Certified - Azure Fundamentals (AZ-900)
-```
+- Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
+- Applying and deepening skills in clean architecture, reusable UI components, and API design outside of a work environment.
 
----
+</details>
 
-### 🧭 Career Timeline
+<details>
+<summary><b>Junior Software Developer — Automation Exchange, Johannesburg (May 2025 – June 2026)</b></summary>
+<br>
 
-```mermaid
----
-config:
-  theme: 'base'
----
-timeline
-    title Career Journey
-    section Singular (Feb 2023 - Apr 2025)
-        Feb 2023 : Joined Singular
-                 : Learned in-house stack - .NET Core & React
-        Aug 2023 : Maintained existing internal ERP application
-        Feb 2024 : Rebuilt internal ERP into modern stack
-                 : .NET Core & React
-        Aug 2024 : Maintained existing shareholders project
-        Feb 2025 : Remodernization of shareholders management system
-        Apr 2025 : Left Singular
+- Collaborated with CPOs, Product Owners, developers, testers, training specialists, document specialists, and stakeholders to deliver software solutions.
+- Developed and maintained CRM, network management, and enterprise applications using .NET Framework, .NET Core, Angular, SQL Server, and Retool.
+- Built and integrated RESTful APIs with internal and external systems.
+- Developed Retool applications, AI agents, and automated workflows that reduced new client onboarding time, streamlined troubleshooting, resolved recurring issues, and saved time for technicians and field service agents.
+- Implemented new features, resolved bugs, and enhanced existing applications.
+- Performed code reviews, testing, debugging, and troubleshooting.
+- Managed CI/CD deployments across development, staging, and pre-production environments.
+- Participated in Agile ceremonies including sprint planning, stand-ups, backlog refinement, and retrospectives.
 
-    section Automation Exchange (May 2025 - Jun 2026)
-        May 2025 : Joined Automation Exchange
-                 : Maintained several internal applications
-        Oct 2025 : Moved to low-code platform work
-                 : Remodernizing frontend of existing projects
-                 : Stakeholder engagement - requirements & solutions
-```
+</details>
+
+<details>
+<summary><b>Junior Software Developer — Singular Systems, Johannesburg (February 2023 – April 2025)</b></summary>
+<br>
+
+- Developed and maintained web applications using ASP.NET Core, C#, React TypeScript, and SQL Server.
+- Built and maintained RESTful APIs and integrated them with frontend applications.
+- Implemented new features, resolved bugs, and enhanced existing systems based on business requirements.
+- Wrote LINQ queries and used Entity Framework Core for data access and database operations.
+- Performed debugging, testing, code reviews, and troubleshooting to ensure software quality.
+- Used Git for version control and collaborated with the development team in an agile environment.
+
+</details>
 
 ---
 
@@ -68,16 +57,33 @@ timeline
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Retool](https://img.shields.io/badge/-Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+### 🧠 Soft Skills
+
+`Problem Solving` `Communication` `Stakeholder Engagement` `Requirements Gathering` `Agile Collaboration` `Time Management` `Adaptability` `Mentoring & Knowledge Sharing` `Attention to Detail` `Ownership`
+
+---
+
+### 🎓 Education & Certifications
+
+- **Advanced Diploma in ICT** (Application Development), NQF 7 — Feb 2020 – Dec 2020
+- **Diploma in ICT** (Application Development), NQF 6 — 2017 – 2019
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
 
 ---
 
