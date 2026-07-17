@@ -22,7 +22,11 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 </details>
 
 <details>
-<summary><b>Junior Software Developer — Automation Exchange, Johannesburg (May 2025 – June 2026)</b></summary>
+  - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
+- Using this time deliberately to sharpen my skills and prepare for my next role, where I aim to make a real impact from day one.
+- Continuously exploring new tools, patterns, and ways of working to become a more efficient and well-rounded developer.
+
+</details>
 <br>
 
 - Collaborated with CPOs, Product Owners, developers, testers, training specialists, document specialists, and stakeholders to deliver software solutions.
