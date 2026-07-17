@@ -14,7 +14,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 ### 💼 Experience
 
 <details>
-<summary><b>Software Developer —  · Ready to join your team if my skills and character fit your needs (June 2026 – Present)  </b></summary>
+<summary><b>Ready to contribute if I'm the right fit for your team and organization.</b></summary>
 <br>
 
 - Currently between roles and actively seeking my next opportunity as a Software Developer.
