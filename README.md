@@ -7,26 +7,24 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 [![Phone](https://img.shields.io/badge/%E2%98%8E-081%20819%201893-25D366?style=for-the-badge)](tel:+27818191893)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27818191893)
 [![Gmail](https://img.shields.io/badge/-silindanemdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silindanemdu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Mdu%20Silinda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/silindam/)
+[![LinkedIn](https://img.shields.io/badge/-Mdu%20Silinda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silindam/)
 
 ---
 
 ### 💼 Experience
 
-<details><summary>🚀 &nbsp;<b>Personal Project</b> &nbsp;·&nbsp; <i>June 2026 – Present</i></summary>
+<details>
+<summary>🚀 &nbsp;<b>Personal Project</b> &nbsp;·&nbsp; <i>June 2026 – Present</i></summary>
 <br>
 
 - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
-- Applying and deepening skills in clean architecture, reusable UI components, and API design outside of a work environment.
-
-</details>
-
-<details>
-  - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
 - Using this time deliberately to sharpen my skills and prepare for my next role, where I aim to make a real impact from day one.
 - Continuously exploring new tools, patterns, and ways of working to become a more efficient and well-rounded developer.
 
 </details>
+
+<details>
+<summary><b>Junior Software Developer — Automation Exchange, Johannesburg (May 2025 – June 2026)</b></summary>
 <br>
 
 - Collaborated with CPOs, Product Owners, developers, testers, training specialists, document specialists, and stakeholders to deliver software solutions.
@@ -94,13 +92,13 @@ timeline
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Retool](https://img.shields.io/badge/-Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
@@ -117,3 +115,10 @@ timeline
 - **Advanced Diploma in ICT** (Application Development), NQF 7 — Feb 2020 – Dec 2020
 - **Diploma in ICT** (Application Development), NQF 6 — 2017 – 2019
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SilindamMN&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilindamMN&layout=compact&theme=radical&hide_border=true)
