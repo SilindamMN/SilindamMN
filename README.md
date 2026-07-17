@@ -14,7 +14,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 ### 💼 Experience
 
 <details>
-<summary>🚀 &nbsp;<b>Personal Project</b> &nbsp;·&nbsp; <i>June 2026 – Present</i></summary>
+<summary><b>Software Developer — Personal Project, Johannesburg (June 2026 – Present)</b></summary>
 <br>
 
 - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
@@ -36,19 +36,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 - Managed CI/CD deployments across development, staging, and pre-production environments.
 - Participated in Agile ceremonies including sprint planning, stand-ups, backlog refinement, and retrospectives.
 
-**Breakdown:**
-```mermaid
----
-config:
-  theme: 'base'
----
-timeline
-    title Automation Exchange
-    May 2025 : Maintained several internal applications (5 months)
-    Oct 2025 : Moved to low-code platform work
-             : Remodernizing frontend of existing projects
-             : Heavy stakeholder engagement - requirements & solutions
-```
+**Breakdown:** May 2025 – Oct 2025: maintained internal applications (5 months) · Oct 2025 – present: low-code platform work, frontend remodernization & stakeholder engagement
 
 </details>
 
@@ -106,7 +94,16 @@ timeline
 
 ### 🧠 Soft Skills
 
-`Problem Solving` `Communication` `Stakeholder Engagement` `Requirements Gathering` `Agile Collaboration` `Time Management` `Adaptability` `Mentoring & Knowledge Sharing` `Attention to Detail` `Ownership`
+![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF&logoColor=white)
+![Communication](https://img.shields.io/badge/💬_Communication-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Stakeholder Engagement](https://img.shields.io/badge/🤝_Stakeholder_Engagement-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Requirements Gathering](https://img.shields.io/badge/📋_Requirements_Gathering-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Agile Collaboration](https://img.shields.io/badge/🔄_Agile_Collaboration-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Time Management](https://img.shields.io/badge/⏱️_Time_Management-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Adaptability](https://img.shields.io/badge/🌱_Adaptability-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Mentoring](https://img.shields.io/badge/🎓_Mentoring_%26_Knowledge_Sharing-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Attention to Detail](https://img.shields.io/badge/🔍_Attention_to_Detail-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
+![Ownership](https://img.shields.io/badge/🏆_Ownership-6C63FF?style=flat-square&labelColor=6C63FF&color=6C63FF)
 
 ---
 
