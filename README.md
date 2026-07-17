@@ -43,6 +43,7 @@ timeline
     title Automation Exchange
     May 2025 : Angular, .NET Core APIs, .NET MVC, microservices (5 months)
     Oct 2025 : Retool low-code - legacy frontend modernization, workflows & AI agents
+    Jun 2026 : Left Automation Exchange
 ```
 
 </details>
@@ -121,3 +122,8 @@ timeline
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
 
 ---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SilindamMN&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilindamMN&layout=compact&theme=radical&hide_border=true)
