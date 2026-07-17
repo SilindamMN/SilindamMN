@@ -14,9 +14,10 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 ### 💼 Experience
 
 <details>
-<summary><b>Software Developer — Personal Project, Johannesburg (June 2026 – Present)</b></summary>
+<summary><b>Software Developer — Open to Work (June 2026 – Present)</b></summary>
 <br>
 
+- Currently between roles and actively seeking my next opportunity as a Software Developer.
 - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
 - Using this time deliberately to sharpen my skills and prepare for my next role, where I aim to make a real impact from day one.
 - Continuously exploring new tools, patterns, and ways of working to become a more efficient and well-rounded developer.
@@ -36,7 +37,13 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 - Managed CI/CD deployments across development, staging, and pre-production environments.
 - Participated in Agile ceremonies including sprint planning, stand-ups, backlog refinement, and retrospectives.
 
-**Breakdown:** May 2025 – Oct 2025: maintained internal applications (5 months) · Oct 2025 – present: low-code platform work, frontend remodernization & stakeholder engagement
+**Breakdown:**
+```mermaid
+timeline
+    title Automation Exchange
+    May 2025 : Maintained internal apps (5 months)
+    Oct 2025 : Low-code platform, frontend remodernization & stakeholder engagement
+```
 
 </details>
 
