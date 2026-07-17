@@ -11,6 +11,36 @@ I'm **Mduduzi**, a full-stack software developer focused on **.NET (ASP.NET Core
 [![Phone](https://img.shields.io/badge/-081%20819%201893-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+27818191893)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27818191893)
 [![Gmail](https://img.shields.io/badge/-silindanemdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silindanemdu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Mdu%20Silinda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silindam/)
+
+---
+
+### 🧭 Career Timeline
+
+```mermaid
+---
+config:
+  theme: 'base'
+---
+timeline
+    title Career Journey
+    section Singular (Feb 2023 - Apr 2025)
+        Feb 2023 : Joined Singular
+                 : Learned in-house stack - .NET Core & React
+        Aug 2023 : Maintained existing internal ERP application
+        Feb 2024 : Rebuilt internal ERP into modern stack
+                 : .NET Core & React
+        Aug 2024 : Maintained existing shareholders project
+        Feb 2025 : Remodernization of shareholders management system
+        Apr 2025 : Left Singular
+
+    section Automation Exchange (May 2025 - Jun 2026)
+        May 2025 : Joined Automation Exchange
+                 : Maintained several internal applications
+        Oct 2025 : Moved to low-code platform work
+                 : Remodernizing frontend of existing projects
+                 : Stakeholder engagement - requirements & solutions
+```
 
 ---
 
