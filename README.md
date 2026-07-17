@@ -13,16 +13,20 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 
 ### 💼 Experience
 
-<details>
-<summary><b>Software Developer — Open to Work (June 2026 – Present)</b></summary>
-<br>
+#### 🟢 Software Developer — Open to Work (June 2026 – Present)
 
 - Currently between roles and actively seeking my next opportunity as a Software Developer.
 - Designing and building **WorkForceNavigator**, a full-stack HR management system (ASP.NET Core, EF Core, Angular, SQL Server) covering RBAC, teams, departments, and job titles.
-- Using this time deliberately to sharpen my skills and prepare for my next role, where I aim to make a real impact from day one.
 - Continuously exploring new tools, patterns, and ways of working to become a more efficient and well-rounded developer.
 
-</details>
+```mermaid
+timeline
+    title Right Now
+    Jun 2026 : Left Automation Exchange
+    Jun 2026 : Started personal project - WorkForceNavigator
+             : Sharpening skills, exploring new tools & patterns
+    Present  : Ready to join your team
+```
 
 <details>
 <summary><b>Junior Software Developer — Automation Exchange, Johannesburg (May 2025 – June 2026)</b></summary>
@@ -120,10 +124,3 @@ timeline
 - **Advanced Diploma in ICT** (Application Development), NQF 7 — Feb 2020 – Dec 2020
 - **Diploma in ICT** (Application Development), NQF 6 — 2017 – 2019
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SilindamMN&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilindamMN&layout=compact&theme=radical&hide_border=true)
