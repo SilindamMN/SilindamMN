@@ -35,6 +35,20 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 - Managed CI/CD deployments across development, staging, and pre-production environments.
 - Participated in Agile ceremonies including sprint planning, stand-ups, backlog refinement, and retrospectives.
 
+**Breakdown:**
+```mermaid
+---
+config:
+  theme: 'base'
+---
+timeline
+    title Automation Exchange
+    May 2025 : Maintained several internal applications (5 months)
+    Oct 2025 : Moved to low-code platform work
+             : Remodernizing frontend of existing projects
+             : Heavy stakeholder engagement - requirements & solutions
+```
+
 </details>
 
 <details>
@@ -48,26 +62,23 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 - Performed debugging, testing, code reviews, and troubleshooting to ensure software quality.
 - Used Git for version control and collaborated with the development team in an agile environment.
 
-</details>
-
-**Timeline at a glance**
-
+**Breakdown:**
 ```mermaid
 ---
 config:
   theme: 'base'
 ---
 timeline
-    title Career Journey
-    2017 - 2019 : Diploma in ICT (Application Development) - NQF 6
-    2020 : Advanced Diploma in ICT (Application Development) - NQF 7
-    2023 : Joined Singular Systems
-         : ASP.NET Core, React TypeScript, SQL Server
-    2025 : Joined Automation Exchange
-         : .NET, Angular, Retool, AI agents & automation
-    2026 : Azure Fundamentals (AZ-900) certified
-         : Started personal project - WorkForceNavigator
+    title Singular Systems
+    Feb 2023 : Learned in-house stack - .NET Core & React (6 months)
+    Aug 2023 : Maintained existing internal ERP application (6 months)
+    Feb 2024 : Rebuilt internal ERP into modern stack - .NET Core & React (6 months)
+    Aug 2024 : Maintained existing shareholders project (6 months)
+    Feb 2025 : Remodernization of shareholders management system
+    Apr 2025 : Left Singular Systems
 ```
+
+</details>
 
 ---
 
