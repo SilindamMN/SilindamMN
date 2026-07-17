@@ -14,7 +14,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 ### 💼 Experience
 
 <details>
-<summary><b>🟢 Software Developer — Open to Work (June 2026 – Present)</b></summary>
+<summary><b>🟢 Software Developer — Open to Work (June 2026 – Present) · Ready to join your team if my skills and character fit your needs</b></summary>
 <br>
 
 - Currently between roles and actively seeking my next opportunity as a Software Developer.
