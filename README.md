@@ -4,7 +4,7 @@ I'm **Mduduzi**, a full-stack software developer based in Johannesburg, South Af
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SilindamMN&color=512BD4&style=flat)
 
-[![Phone](https://img.shields.io/badge/-081%20819%201893-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+27818191893)
+[![Phone](https://img.shields.io/badge/%E2%98%8E-081%20819%201893-25D366?style=for-the-badge)](tel:+27818191893)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27818191893)
 [![Gmail](https://img.shields.io/badge/-silindanemdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silindanemdu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Mdu%20Silinda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silindam/)
