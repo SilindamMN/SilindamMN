@@ -125,6 +125,6 @@ timeline
 
 ### 🎓 Education & Certifications
 
-- **Advanced Diploma in ICT** (Application Development), NQF 7 — Feb 2020 – Dec 2020
-- **Diploma in ICT** (Application Development), NQF 6 — 2017 – 2019
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — April 2026
+- **Advanced Diploma in ICT** (Application Development), NQF 7 
+- **Diploma in ICT** (Application Development), NQF 
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — 
